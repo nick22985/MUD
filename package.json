@@ -1,0 +1,11 @@
+{
+	"name": "@nick22985/mud",
+	"version": "0.0.1",
+	"description": "Minecraft User Data gets back user infomation using the mojant api. (skins, name history, etc)",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "nick22985",
+	"license": "MIT"
+}
